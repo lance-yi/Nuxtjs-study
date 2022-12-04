@@ -2477,9 +2477,9 @@ debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.1"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -6708,11 +6708,6 @@ vue-no-ssr@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/vue-no-ssr/-/vue-no-ssr-1.1.1.tgz#875f3be6fb0ae41568a837f3ac1a80eaa137b998"
   integrity sha512-ZMjqRpWabMPqPc7gIrG0Nw6vRf1+itwf0Itft7LbMXs2g3Zs/NFmevjZGN1x7K3Q95GmIjWbQZTVerxiBxI+0g==
-
-vue-notifications@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vue-notifications/-/vue-notifications-1.0.0.tgz#7389f39aa339835d840b6feaca509fbbdb9633bb"
-  integrity sha512-UOk8xuLHP9Yz51NlwCHlMdJEOXdRiDmcc8t9ZKdvbVM22G1K0puEOro5ouIQvu8LT1luozU9pLuCzOx78CBdeQ==
 
 vue-router@^3.0.6:
   version "3.0.7"
